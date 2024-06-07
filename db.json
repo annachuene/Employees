@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "id": "67ab",
+      "firstName": "Violet",
+      "lastName": "Chuene",
+      "email": "test@gmail.com",
+      "dob": "1981-02-26T22:00:00.000Z",
+      "gender": "female",
+      "education": "Diploma",
+      "company": "Amazon",
+      "experience": "4",
+      "package": "7"
+    },
+    {
+      "id": "0702",
+      "firstName": "Rise",
+      "lastName": "Again",
+      "email": "rise@gmail.com",
+      "dob": "2016-02-16T22:00:00.000Z",
+      "gender": "",
+      "education": "Intermediate",
+      "company": "Great is your name",
+      "experience": "6",
+      "package": "4"
+    },
+    {
+      "id": "eccd",
+      "firstName": "wede",
+      "lastName": "edeq3",
+      "email": "ri@yahoo.com",
+      "dob": "2024-06-11T22:00:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "ewdwe",
+      "experience": "2",
+      "package": "32"
+    },
+    {
+      "id": "245a",
+      "firstName": "wedwe",
+      "lastName": "wedew",
+      "email": "re@yahoo.com",
+      "dob": "2024-06-11T22:00:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "ewdwe",
+      "experience": "2",
+      "package": "34"
+    }
+  ]
+}
